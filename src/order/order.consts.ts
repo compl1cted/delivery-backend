@@ -1,0 +1,1 @@
+export const ORDER_TYPEORM_TOKEN = "ORDER_TYPEORM";
